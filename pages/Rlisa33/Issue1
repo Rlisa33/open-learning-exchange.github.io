@@ -5,3 +5,5 @@ This is very important and can occur because of various reasons.
 *The computer has not accepted or gave permission to your software download
 * The computer needs to download software required to install vagrant.
 _A Step By Step Process Explains the Confusion with unexplained Opening of Command Prompt when the Windows screen is up!_
+# You need to install hyper -v in windows 7pro software and up to windows. 8.1. Hyper-V is a server-side application up to Windows 8.1 and upcoming version of Windows 10, which include it in the client, too (as the update of Virtual PC)
+image
